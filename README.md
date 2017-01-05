@@ -2,7 +2,7 @@
 
 This is Google Map Weather Application using a google map api and open weather api.
 
-# Installing Ionic
+# Installing Ionic2
 
 Ionic 2 apps are created and developed primarily through the Ionic command line utility (the "CLI"), and use Cordova to build and deploy as a native app. This means we need to install a few utilities to get developing.
 
